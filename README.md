@@ -4,5 +4,6 @@ This repository contains the homework assignments for EE 559: Machine Learning |
 
 * **Author:Wei Fu
 * **Term: Summer 2026
+* All notebooks are developed and tested in Google Colab. 
 ---
 *© All rights reserved. Content for educational and evaluation purposes only.*
